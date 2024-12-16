@@ -1,8 +1,39 @@
-# React + Vite
+# Nicholas Silva Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository for my personal portfolio website! This project serves as a showcase for my projects, skills, and contact information, demonstrating my abilities in web development and design.
 
-Currently, two official plugins are available:
+## Features
+- **Home Page**: Provides an overview of who I am and what I do.
+- **Projects Section**: Highlights key projects with descriptions and links to their repositories.
+- **Skills Section**: Lists my technical skills and proficiencies.
+- **Contact Section**: Includes ways to get in touch, such as email and LinkedIn.
+- **Responsive Design**: Optimized for viewing on both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **Frameworks/Libraries**: Bootstrap, Framer Motion (for animations and interactivity)
+- **Version Control**: Git and GitHub for code management
+
+## Installation
+To run the portfolio locally:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/silvanicholas/Nicholas-Silva-Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Nicholas-Silva-Portfolio
+   ```
+3. Open `index.html` in your preferred web browser.
+
+## Usage
+This portfolio is designed to:
+- Showcase my completed projects and the technologies used.
+- Provide a central location for potential collaborators or employers to learn about my background and skills.
+
+## Future Enhancements
+- **Dynamic Content**: Integrate a backend to manage projects dynamically.
+- **Dark Mode**: Add a toggle for light and dark theme support.
+- **Blog Section**: Include a section for sharing articles and insights.
+
+
