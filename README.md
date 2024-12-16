@@ -24,7 +24,15 @@ To run the portfolio locally:
    ```bash
    cd Nicholas-Silva-Portfolio
    ```
-3. Open `index.html` in your preferred web browser.
+3. Install dependencies using npm:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open your web browser and navigate to `http://localhost:3000` to view the portfolio locally.
 
 ## Usage
 This portfolio is designed to:
